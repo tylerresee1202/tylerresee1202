@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rys
+- 👋 Hi, I’m Reese
 - 👀 I’m interested in Economics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning SQL and Python for Data Analysis
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like learning languages
 
